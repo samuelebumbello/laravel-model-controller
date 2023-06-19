@@ -1,0 +1,13 @@
+.container {
+    padding: 20px 0;
+    img{
+        width: 10%;
+    }
+    li a{
+        color: white;
+
+        &:hover{
+            color: rgb(219, 215, 220);
+        }
+    }
+}

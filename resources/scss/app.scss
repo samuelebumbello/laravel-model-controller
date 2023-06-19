@@ -1,0 +1,12 @@
+@import "~bootstrap/scss/bootstrap";
+
+@import './general/header';
+@import './general/movies';
+@import './general/moviedetail';
+
+body{
+    background-color:  #141414;
+    color: rgb(219, 215, 220);
+}
+
+//$secondaryColor: #DB202C;
